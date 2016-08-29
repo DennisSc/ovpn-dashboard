@@ -1,0 +1,13 @@
+www-data ALL=(ALL) NOPASSWD: /var/www/html/admin/vpnusers/adduser.sh
+www-data ALL=(ALL) NOPASSWD: /var/www/html/admin/vpnusers/removeuser_rw.sh
+www-data ALL=(ALL) NOPASSWD: /var/www/html/admin/vpnusers/removeuser_s2s.sh
+www-data ALL=(ALL) NOPASSWD: /var/www/html/admin/getusercount.sh
+www-data ALL=(ALL) NOPASSWD: /var/www/html/admin/vpninfo/showcalog.sh
+www-data ALL=(ALL) NOPASSWD: /var/www/html/admin/vpnusers/forcerevoke.sh
+www-data ALL=(ALL) NOPASSWD: /var/www/html/admin/vpnusers/edits2s.sh
+www-data ALL=(ALL) NOPASSWD: /var/www/html/admin/vpnconfig/applyconf.sh
+www-data ALL=(ALL) NOPASSWD: /var/www/html/admin/vpnconfig/restartovpn.sh
+www-data ALL=(ALL) NOPASSWD: /var/www/html/admin/vpnconfig/ovpnservicestatus.sh
+www-data ALL=(ALL) NOPASSWD: /var/www/html/admin/vpnconfig/changeconf.sh
+
+
