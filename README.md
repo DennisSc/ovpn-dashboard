@@ -6,7 +6,8 @@ Enables simple creation of client config files, either for dial-up or site-to-si
 
 Setup howto: https://github.com/DennisSc/ovpn-dashboard/wiki
 <hr>
-##Screenshots:
+
+## Screenshots:
 
 ![Start screen](https://raw.githubusercontent.com/DennisSc/ovpn-dashboard/master/img/startscreen.PNG "Start screen")
 ![Dashboard](https://raw.githubusercontent.com/DennisSc/ovpn-dashboard/master/img/dashboard.PNG "Dashboard")
